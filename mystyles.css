@@ -1,0 +1,25 @@
+
+body{
+	background-image: url("omfgdogs.gif");
+	margin: 0;
+	padding: 0;
+	
+}
+h1{
+	color: purple;
+	text-align: center;
+}
+
+p{
+	font-family: "Times New Roman";
+	font-size: 50px;
+	text-align: center;
+}
+
+#wrapperDiv{
+	width: 600px;
+	height: 800px;
+	border: solid black 3px;
+	background-color: green;
+	margin:auto;
+}
