@@ -55,3 +55,15 @@ p{
 	background-color: #ff9999;
 	margin:auto;
 }
+
+.buttonDiv{
+	width: 100px;
+	height: 20px;
+	border: solid black 1px;
+	background-color: #f2f2f2;
+	float: left;
+	margin: 4px;
+	padding: 10px;
+	margin-left: 12px;
+	text-align: center;
+}
